@@ -1,36 +1,58 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: canonical
+repo: ubuntu-engineering-upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Appstream
+    url: https://appstream.ubuntu.com/
+  - name: Autopkgtest
+    url: https://autopkgtest.ubuntu.com/
+  - name: Autopkgtest Staging
+    url: https://autopkgtest.staging.ubuntu.com/
+  - name: Connectivity Checker
+    url: http://connectivity-check.ubuntu.com
+  - name: Ddebs
+    url: https://ddebs.ubuntu.com/
+#  - name: DebugInfoD
+#    url: TBD
+  - name: Errors
+    url: https://errors.ubuntu.com/
+  - name: GeoIP
+    url: https://geoip.ubuntu.com/
+  - name: Geonames
+    url: https://geoname-lookup.ubuntu.com/
+  - name: Lp retracers
+    url: https://launchpad-retracer.ubuntu.com/
+  - name: Manpages
+    url: https://manpages.ubuntu.com/
+  - name: Manpages Staging
+    url: https://manpages.staging.ubuntu.com/
+  - name: Merge-o-matic
+    url: https://merges.ubuntu.com/
+  - name: Packages
+    url: http://packages.ubuntu.com/
+  - name: Sponsoring Report
+    url: http://sponsoring-reports.ubuntu.com/
+  - name: SRU Report
+    url: https://ubuntu-archive-team.ubuntu.com/pending-sru.html
+  - name: Transitions Tracker
+    url: https://transitions.ubuntu.com/
+  - name: Ubuntu Metrics
+    url: https://ubuntu-release.kpi.ubuntu.com
+  - name: Update Excuses
+    url: https://ubuntu-archive-team.ubuntu.com/proposed-migration/update_excuses.html
+  - name: Upki Mirror
+    url: https://crlite.ubuntu.com/k8s-prod-upki-mirror-ps7-default-upki-mirror-k8s/
+  - name: Versions
+    url: https://people.canonical.com/~platform/desktop/versions/ubuntu-desktop.html
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /ubuntu-engineering-upptime
+  logoUrl: https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg
+  name: Ubuntu services monitoring
+  favicon: https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png
+  introTitle: "Status of the services maintained by Ubuntu Engineering."
   navbar:
     - title: Status
-      href: /
+      href: /ubuntu-engineering-upptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/canonical/ubuntu-engineering-upptime
