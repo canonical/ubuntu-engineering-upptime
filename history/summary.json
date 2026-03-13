@@ -220,19 +220,19 @@
     "url": "http://packages.ubuntu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/packages.ubuntu.com.ico",
     "slug": "packages",
-    "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
-    "time": 787,
-    "timeDay": 787,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "73.31%",
+    "uptimeDay": "73.31%",
+    "uptimeWeek": "73.31%",
+    "uptimeMonth": "73.31%",
+    "uptimeYear": "73.31%",
+    "time": 3487,
+    "timeDay": 3487,
+    "timeWeek": 3487,
+    "timeMonth": 3487,
+    "timeYear": 3487,
     "dailyMinutesDown": {
-      "2026-03-13": 2
+      "2026-03-13": 30
     }
   },
   {
@@ -331,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crlite.ubuntu.com.ico",
     "slug": "upki-mirror",
     "status": "down",
-    "uptime": "1.82%",
-    "uptimeDay": "1.82%",
-    "uptimeWeek": "1.82%",
-    "uptimeMonth": "1.82%",
-    "uptimeYear": "1.82%",
+    "uptime": "1.35%",
+    "uptimeDay": "1.35%",
+    "uptimeWeek": "1.35%",
+    "uptimeMonth": "1.35%",
+    "uptimeYear": "1.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-13": 81
+      "2026-03-13": 111
     }
   },
   {
