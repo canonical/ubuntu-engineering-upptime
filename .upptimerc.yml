@@ -25,7 +25,7 @@ sites:
   - name: Manpages
     url: https://manpages.ubuntu.com/
   - name: Manpages Staging
-    url: https://manpages.staging.ubuntu.com/
+    url: https://manpages.staging.ubuntu.com/k8s-prod-ubuntu-manpages-ng-ps7-default-ubuntu-manpages/
   - name: Merge-o-matic
     url: https://merges.ubuntu.com/
   - name: Packages
