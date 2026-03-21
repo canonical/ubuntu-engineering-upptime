@@ -1,7 +1,7 @@
 url: http://connectivity-check.ubuntu.com
-status: down
-code: 503
-responseTime: 12435
-lastUpdated: 2026-03-21T16:26:43.120Z
+status: up
+code: 204
+responseTime: 8026
+lastUpdated: 2026-03-21T17:05:30.581Z
 startTime: 2026-03-13T19:43:21.664Z
 generator: Upptime <https://github.com/upptime/upptime>
