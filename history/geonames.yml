@@ -1,7 +1,7 @@
 url: https://geoname-lookup.ubuntu.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-28T18:38:23.496Z
+status: up
+code: 200
+responseTime: 740
+lastUpdated: 2026-03-28T18:59:09.706Z
 startTime: 2026-03-13T19:43:24.619Z
 generator: Upptime <https://github.com/upptime/upptime>
