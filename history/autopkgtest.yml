@@ -1,7 +1,7 @@
 url: https://autopkgtest.ubuntu.com/
-status: up
-code: 200
-responseTime: 8891
-lastUpdated: 2026-04-05T15:19:10.050Z
+status: down
+code: 503
+responseTime: 377
+lastUpdated: 2026-04-05T15:34:24.864Z
 startTime: 2026-03-13T19:43:18.772Z
 generator: Upptime <https://github.com/upptime/upptime>
