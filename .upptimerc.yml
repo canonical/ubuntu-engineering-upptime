@@ -41,7 +41,7 @@ sites:
   - name: Update Excuses
     url: https://ubuntu-archive-team.ubuntu.com/proposed-migration/update_excuses.html
   - name: Upki Mirror
-    url: https://crlite.ubuntu.com/k8s-prod-upki-mirror-ps7-default-upki-mirror-k8s/
+    url: https://crlite.ubuntu.com/k8s-prod-upki-mirror-ps7-default-upki-mirror-k8s/manifest.json
   - name: Versions
     url: https://people.canonical.com/~platform/desktop/versions/ubuntu-desktop.html
 
