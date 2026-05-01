@@ -1,7 +1,7 @@
 url: https://ddebs.ubuntu.com/
-status: down
-code: 503
-responseTime: 589
-lastUpdated: 2026-05-01T01:59:36.763Z
+status: up
+code: 200
+responseTime: 521
+lastUpdated: 2026-05-01T03:18:36.039Z
 startTime: 2026-03-13T19:43:22.294Z
 generator: Upptime <https://github.com/upptime/upptime>
