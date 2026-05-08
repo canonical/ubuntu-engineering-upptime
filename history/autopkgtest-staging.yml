@@ -1,7 +1,7 @@
 url: https://autopkgtest.staging.ubuntu.com/
-status: up
-code: 200
-responseTime: 949
-lastUpdated: 2026-05-08T11:02:20.348Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-05-08T16:23:40.952Z
 startTime: 2026-03-13T19:43:20.333Z
 generator: Upptime <https://github.com/upptime/upptime>
