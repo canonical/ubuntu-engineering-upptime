@@ -1,7 +1,7 @@
 url: https://geoip.ubuntu.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-18T23:28:37.399Z
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2026-05-19T01:21:06.600Z
 startTime: 2026-03-13T19:43:23.878Z
 generator: Upptime <https://github.com/upptime/upptime>
