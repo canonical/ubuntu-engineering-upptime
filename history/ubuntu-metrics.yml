@@ -1,7 +1,7 @@
 url: https://ubuntu-release.kpi.ubuntu.com
-status: down
-code: 500
-responseTime: 15682
-lastUpdated: 2026-05-31T22:20:49.677Z
+status: up
+code: 200
+responseTime: 648
+lastUpdated: 2026-05-31T22:34:53.883Z
 startTime: 2026-03-13T19:43:40.282Z
 generator: Upptime <https://github.com/upptime/upptime>
