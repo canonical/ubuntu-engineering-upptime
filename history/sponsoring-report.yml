@@ -1,7 +1,7 @@
 url: http://sponsoring-reports.ubuntu.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-16T00:08:04.003Z
+status: up
+code: 200
+responseTime: 629
+lastUpdated: 2026-07-17T16:32:07.364Z
 startTime: 2026-03-13T19:43:37.349Z
 generator: Upptime <https://github.com/upptime/upptime>
