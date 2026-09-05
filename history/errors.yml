@@ -1,7 +1,7 @@
 url: https://errors.ubuntu.com/
-status: up
-code: 200
-responseTime: 4178
-lastUpdated: 2026-09-04T23:06:29.462Z
+status: down
+code: 503
+responseTime: 182
+lastUpdated: 2026-09-05T13:44:17.985Z
 startTime: 2026-03-13T19:43:23.175Z
 generator: Upptime <https://github.com/upptime/upptime>
