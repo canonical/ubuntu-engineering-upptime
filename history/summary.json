@@ -8,7 +8,7 @@
     "uptime": "76.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.82%",
+    "uptimeMonth": "53.89%",
     "uptimeYear": "76.90%",
     "time": 6543,
     "timeDay": 5729,
@@ -126,7 +126,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 465,
-      "2026-09-18": 941,
+      "2026-09-18": 969,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -239,7 +239,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
-      "2026-09-18": 941,
+      "2026-09-18": 969,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -668,17 +668,17 @@
     "url": "http://sponsoring-reports.ubuntu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sponsoring-reports.ubuntu.com.ico",
     "slug": "sponsoring-report",
-    "status": "down",
+    "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "98.42%",
-    "time": 1384,
-    "timeDay": 5833,
-    "timeWeek": 3550,
-    "timeMonth": 2794,
-    "timeYear": 1384,
+    "time": 1442,
+    "timeDay": 7628,
+    "timeWeek": 4496,
+    "timeMonth": 3085,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2026-05-01": 27,
       "2026-05-02": 121,
@@ -689,7 +689,7 @@
       "2026-07-15": 627,
       "2026-08-24": 103,
       "2026-09-11": 34,
-      "2026-09-18": 135
+      "2026-09-18": 138
     }
   },
   {
@@ -698,11 +698,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu-archive-team.ubuntu.com.ico",
     "slug": "sru-report",
     "status": "down",
-    "uptime": "97.28%",
-    "uptimeDay": "87.93%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "97.28%",
+    "uptime": "97.27%",
+    "uptimeDay": "85.98%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "97.27%",
     "time": 1806,
     "timeDay": 5870,
     "timeWeek": 3597,
@@ -730,7 +730,7 @@
       "2026-09-09": 17,
       "2026-09-10": 474,
       "2026-09-11": 29,
-      "2026-09-18": 174
+      "2026-09-18": 202
     }
   },
   {
@@ -739,11 +739,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-reports.ubuntu.com.ico",
     "slug": "static-reports",
     "status": "down",
-    "uptime": "97.25%",
-    "uptimeDay": "90.09%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "97.25%",
+    "uptime": "97.23%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "97.23%",
     "time": 1107,
     "timeDay": 6320,
     "timeWeek": 2932,
@@ -767,7 +767,7 @@
       "2026-09-03": 34,
       "2026-09-10": 443,
       "2026-09-11": 24,
-      "2026-09-18": 142
+      "2026-09-18": 170
     }
   },
   {
@@ -776,11 +776,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/transitions.ubuntu.com.ico",
     "slug": "transitions-tracker",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "90.75%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "95.98%",
     "time": 1050,
     "timeDay": 7483,
     "timeWeek": 4422,
@@ -804,7 +804,7 @@
       "2026-09-03": 29,
       "2026-09-10": 23,
       "2026-09-11": 19,
-      "2026-09-18": 133
+      "2026-09-18": 162
     }
   },
   {
@@ -812,11 +812,11 @@
     "url": "https://ubuntu-release.kpi.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu-release.kpi.ubuntu.com.ico",
     "slug": "ubuntu-metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "96.42%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "91.09%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "96.42%",
     "time": 1077,
     "timeDay": 5166,
@@ -836,7 +836,7 @@
       "2026-07-15": 617,
       "2026-08-24": 84,
       "2026-09-03": 24,
-      "2026-09-18": 123
+      "2026-09-18": 128
     }
   },
   {
@@ -879,10 +879,10 @@
     "url": "https://upki.ubuntu.com/intermediates/manifest.json",
     "icon": "https://icons.duckduckgo.com/ip3/upki.ubuntu.com.ico",
     "slug": "upki-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "79.49%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "79.49%",
     "time": 1711,
@@ -938,7 +938,7 @@
       "2026-07-15": 499,
       "2026-08-24": 81,
       "2026-09-03": 20,
-      "2026-09-18": 125
+      "2026-09-18": 126
     }
   },
   {
