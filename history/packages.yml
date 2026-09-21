@@ -1,7 +1,7 @@
 url: http://packages.ubuntu.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-09-21T22:03:06.287Z
+status: up
+code: 200
+responseTime: 33882
+lastUpdated: 2026-09-21T22:23:46.239Z
 startTime: 2026-03-13T19:43:36.168Z
 generator: Upptime <https://github.com/upptime/upptime>
