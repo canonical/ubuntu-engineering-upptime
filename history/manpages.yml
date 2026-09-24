@@ -1,7 +1,7 @@
 url: https://manpages.ubuntu.com/
-status: down
-code: 503
-responseTime: 12176
-lastUpdated: 2026-09-23T23:10:31.390Z
+status: up
+code: 200
+responseTime: 6871
+lastUpdated: 2026-09-24T15:09:47.203Z
 startTime: 2026-03-13T19:43:26.520Z
 generator: Upptime <https://github.com/upptime/upptime>
