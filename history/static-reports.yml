@@ -1,7 +1,7 @@
 url: https://static-reports.ubuntu.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-09-24T06:58:21.776Z
+status: up
+code: 200
+responseTime: 10912
+lastUpdated: 2026-09-25T08:16:12.717Z
 startTime: 2026-04-09T08:59:26.078Z
 generator: Upptime <https://github.com/upptime/upptime>
