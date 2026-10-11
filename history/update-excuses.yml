@@ -1,7 +1,7 @@
 url: https://ubuntu-archive-team.ubuntu.com/proposed-migration/update_excuses.html
-status: down
-code: 503
-responseTime: 321
-lastUpdated: 2026-10-11T12:10:44.731Z
+status: up
+code: 200
+responseTime: 967
+lastUpdated: 2026-10-11T12:35:33.237Z
 startTime: 2026-03-13T19:43:41.165Z
 generator: Upptime <https://github.com/upptime/upptime>
