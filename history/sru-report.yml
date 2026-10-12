@@ -1,7 +1,7 @@
 url: https://ubuntu-archive-team.ubuntu.com/pending-sru.html
-status: up
-code: 200
-responseTime: 28811
-lastUpdated: 2026-10-12T11:19:44.327Z
+status: down
+code: 503
+responseTime: 219
+lastUpdated: 2026-10-12T11:50:11.080Z
 startTime: 2026-03-13T19:43:38.211Z
 generator: Upptime <https://github.com/upptime/upptime>
