@@ -12,8 +12,8 @@ sites:
     url: http://connectivity-check.ubuntu.com
   - name: Ddebs
     url: https://ddebs.ubuntu.com/
-#  - name: DebugInfoD
-#    url: TBD
+  - name: DebugInfoD
+    url: https://debuginfod.ubuntu.com/health
   - name: Errors
     url: https://errors.ubuntu.com/
   - name: GeoIP
