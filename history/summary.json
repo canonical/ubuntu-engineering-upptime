@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "77.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.49%",
-    "uptimeMonth": "82.86%",
+    "uptimeWeek": "25.37%",
+    "uptimeMonth": "82.83%",
     "uptimeYear": "77.89%",
     "time": 6652,
     "timeDay": 0,
@@ -63,7 +63,7 @@
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 763,
-      "2026-10-20": 996,
+      "2026-10-20": 1009,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -132,7 +132,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 465,
-      "2026-10-20": 996,
+      "2026-10-20": 1009,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -277,7 +277,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
-      "2026-10-20": 996,
+      "2026-10-20": 1009,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -417,19 +417,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/debuginfod.ubuntu.com.ico",
     "slug": "debug-info-d",
     "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "94.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 13889,
     "timeDay": 13889,
     "timeWeek": 13889,
     "timeMonth": 13889,
     "timeYear": 13889,
-    "dailyMinutesDown": {
-      "2026-10-20": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Errors",
@@ -573,11 +571,11 @@
     "url": "https://launchpad-retracer.ubuntu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/launchpad-retracer.ubuntu.com.ico",
     "slug": "lp-retracers",
-    "status": "up",
+    "status": "down",
     "uptime": "95.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "95.79%",
     "time": 2272,
     "timeDay": 16370,
@@ -604,7 +602,8 @@
       "2026-09-20": 13,
       "2026-09-21": 49,
       "2026-09-22": 48,
-      "2026-10-15": 35
+      "2026-10-15": 35,
+      "2026-10-20": 10
     }
   },
   {
@@ -865,11 +864,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-reports.ubuntu.com.ico",
     "slug": "static-reports",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "96.01%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.04%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "97.04%",
     "time": 2871,
     "timeDay": 7648,
     "timeWeek": 6447,
@@ -900,7 +899,7 @@
       "2026-09-24": 1022,
       "2026-09-29": 17,
       "2026-09-30": 133,
-      "2026-10-20": 30
+      "2026-10-20": 15
     }
   },
   {
@@ -984,7 +983,7 @@
     "slug": "update-excuses",
     "status": "up",
     "uptime": "97.28%",
-    "uptimeDay": "97.96%",
+    "uptimeDay": "98.85%",
     "uptimeWeek": "54.12%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "97.28%",
@@ -1028,9 +1027,9 @@
     "slug": "upki-mirror",
     "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "81.87%",
     "time": 3210,
     "timeDay": 9719,
@@ -1090,8 +1089,7 @@
       "2026-09-20": 17,
       "2026-09-22": 1058,
       "2026-09-23": 23,
-      "2026-09-24": 718,
-      "2026-10-20": 12
+      "2026-09-24": 718
     }
   },
   {
