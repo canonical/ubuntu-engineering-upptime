@@ -4,11 +4,11 @@
     "url": "https://appstream.ubuntu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/appstream.ubuntu.com.ico",
     "slug": "appstream",
-    "status": "up",
+    "status": "down",
     "uptime": "76.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.79%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "58.77%",
     "uptimeYear": "76.86%",
     "time": 6594,
     "timeDay": 1058,
@@ -76,7 +76,8 @@
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
-      "2026-10-15": 754
+      "2026-10-15": 754,
+      "2026-11-11": 7
     }
   },
   {
@@ -140,7 +141,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 465,
-      "2026-11-11": 744,
+      "2026-11-11": 759,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -307,7 +308,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
-      "2026-11-11": 744,
+      "2026-11-11": 760,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -894,15 +895,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu-archive-team.ubuntu.com.ico",
     "slug": "sru-report",
     "status": "down",
-    "uptime": "96.85%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "93.69%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "96.85%",
+    "uptime": "96.84%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.84%",
     "time": 4163,
     "timeDay": 1076,
     "timeWeek": 2732,
-    "timeMonth": 8793,
+    "timeMonth": 8690,
     "timeYear": 4163,
     "dailyMinutesDown": {
       "2026-03-16": 246,
@@ -944,7 +945,7 @@
       "2026-10-23": 62,
       "2026-11-04": 47,
       "2026-11-09": 631,
-      "2026-11-11": 4
+      "2026-11-11": 20
     }
   },
   {
@@ -1084,14 +1085,14 @@
     "slug": "update-excuses",
     "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "88.35%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "88.34%",
     "uptimeYear": "97.52%",
     "time": 2076,
     "timeDay": 6615,
     "timeWeek": 2718,
-    "timeMonth": 2430,
+    "timeMonth": 2450,
     "timeYear": 2076,
     "dailyMinutesDown": {
       "2026-03-16": 245,
@@ -1119,7 +1120,7 @@
       "2026-10-19": 1026,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-11-11": 4
+      "2026-11-11": 19
     }
   },
   {
@@ -1206,9 +1207,9 @@
     "slug": "versions",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.47%",
     "time": 1025,
     "timeDay": 1171,
@@ -1222,7 +1223,7 @@
       "2026-10-15": 46,
       "2026-10-29": 21,
       "2026-10-28": 913,
-      "2026-11-11": 19
+      "2026-11-11": 34
     }
   }
 ]
