@@ -140,7 +140,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 465,
-      "2026-11-11": 726,
+      "2026-11-11": 744,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -307,7 +307,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
-      "2026-11-11": 726,
+      "2026-11-11": 744,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -893,17 +893,17 @@
     "url": "https://ubuntu-archive-team.ubuntu.com/pending-sru.html",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu-archive-team.ubuntu.com.ico",
     "slug": "sru-report",
-    "status": "up",
+    "status": "down",
     "uptime": "96.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.74%",
-    "uptimeMonth": "96.20%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "96.85%",
-    "time": 4174,
-    "timeDay": 1905,
-    "timeWeek": 3043,
-    "timeMonth": 8794,
-    "timeYear": 4174,
+    "time": 4163,
+    "timeDay": 1076,
+    "timeWeek": 2732,
+    "timeMonth": 8793,
+    "timeYear": 4163,
     "dailyMinutesDown": {
       "2026-03-16": 246,
       "2026-03-17": 1093,
@@ -943,7 +943,8 @@
       "2026-10-22": 28,
       "2026-10-23": 62,
       "2026-11-04": 47,
-      "2026-11-09": 631
+      "2026-11-09": 631,
+      "2026-11-11": 4
     }
   },
   {
@@ -1081,17 +1082,17 @@
     "url": "https://ubuntu-archive-team.ubuntu.com/proposed-migration/update_excuses.html",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu-archive-team.ubuntu.com.ico",
     "slug": "update-excuses",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.33%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "88.35%",
     "uptimeYear": "97.52%",
-    "time": 2082,
-    "timeDay": 12998,
-    "timeWeek": 3073,
-    "timeMonth": 2431,
-    "timeYear": 2082,
+    "time": 2076,
+    "timeDay": 6615,
+    "timeWeek": 2718,
+    "timeMonth": 2430,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2026-03-16": 245,
       "2026-03-17": 1044,
@@ -1117,7 +1118,8 @@
       "2026-10-16": 635,
       "2026-10-19": 1026,
       "2026-10-18": 1440,
-      "2026-10-17": 1440
+      "2026-10-17": 1440,
+      "2026-11-11": 4
     }
   },
   {
@@ -1203,11 +1205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/people.canonical.com.ico",
     "slug": "versions",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.47%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.47%",
     "time": 1025,
     "timeDay": 1171,
     "timeWeek": 1014,
@@ -1220,7 +1222,7 @@
       "2026-10-15": 46,
       "2026-10-29": 21,
       "2026-10-28": 913,
-      "2026-11-11": 1
+      "2026-11-11": 19
     }
   }
 ]
