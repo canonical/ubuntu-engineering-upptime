@@ -6,8 +6,12 @@ sites:
     url: https://appstream.ubuntu.com/
   - name: Autopkgtest
     url: https://autopkgtest.ubuntu.com/
+    headers:
+      - "User-Agent: ubuntu/ubuntu-engineering-upptime"
   - name: Autopkgtest Staging
     url: https://autopkgtest.staging.ubuntu.com/
+    headers:
+      - "User-Agent: ubuntu/ubuntu-engineering-upptime"
   - name: Connectivity Checker
     url: http://connectivity-check.ubuntu.com
   - name: Ddebs
